@@ -114,6 +114,18 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 
 ---
 
+## 📚 Essential Swift & Apple Architecture Deep Dives
+
+Curated masterclasses and deep architectural references for Apple platform engineers:
+
+- **[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)** — A comprehensive collection of over 500 native Swift extensions boosting development velocity.
+- **[Bridging Callbacks to AsyncStream](https://swiftsenpai.com/swift/asyncstream-callback/)** — Authoritative guide by Swift Senpai on transforming legacy closure delegates into Swift 6 async sequences.
+- **[23 Strategies for Efficient Array Usage in Swift](https://namitgupta.com/23-strategies-for-efficient-array-usage-in-swift)** — Masterclass by Namit Gupta exploring copy-on-write overhead, capacity reservations, and contiguous memory storage.
+- **[Empty States with UIContentUnavailableConfiguration](https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/)** — Implementing native iOS 17+ empty states and search placeholders.
+- **[iOS Navigation Anatomy](https://frankrausch.com/ios-navigation)** — Visual structural dissection by Frank Rausch examining screen flows, navigation stacks, and modal presentations.
+
+---
+
 ## 🤝 Contributing
 
 Have a favorite macOS developer tool that isn't listed? 
