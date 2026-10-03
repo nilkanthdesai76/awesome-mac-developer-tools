@@ -70,6 +70,10 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | **[xcodes](https://github.com/RobotsAndPencils/xcodes)** | The easiest command-line tool to install and switch between multiple Xcode versions. | MIT | `brew install xcodesorg/made/xcodes` |
 | **[Simulator Plus](https://github.com/yusuf-yildirim/SimulatorPlus)** | Enhances iOS Simulator with bezel frames, media drops, and quick status controls. | MIT | Open Source |
 | **[SwiftUI NotchKit](https://github.com/nilkanthdesai76/swiftui-notch-kit)** | Swift package to compute MacBook notch dimensions and display safe insets. | MIT | SPM |
+| **[SwiftUI DuoKit](https://github.com/nilkanthdesai76/swiftui-duo-kit)** | Layout engine and posture state machine for iPhone Duo & foldable dual screens. | MIT | SPM |
+| **[DeviceHardwareInfo](https://github.com/nilkanthdesai76/swift-device-hardware-info)** | Darwin Mach kernel hardware telemetry (RAM, CPU, thermals, SSD, battery). | MIT | SPM |
+| **[MobileAdCoordinator](https://github.com/nilkanthdesai76/swift-mobile-ad-coordinator)** | Protocol-oriented ad mediation orchestration, ATT & GDPR consent management. | MIT | SPM |
+| **[ContentUnavailableKit](https://github.com/nilkanthdesai76/swift-content-unavailable-kit)** | Backported declarative empty state and error recovery system for iOS 15+. | MIT | SPM |
 
 ---
 
@@ -124,6 +128,7 @@ Curated masterclasses and deep architectural references for Apple platform engin
 - **[Empty States with UIContentUnavailableConfiguration](https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/)** — Implementing native iOS 17+ empty states and search placeholders.
 - **[iOS Navigation Anatomy](https://frankrausch.com/ios-navigation)** — Visual structural dissection by Frank Rausch examining screen flows, navigation stacks, and modal presentations.
 - **[Self-Hosting Immich on macOS](https://github.com/nilkanthdesai76/immich-macos-selfhost-guide)** — Battle-tested manual and Docker Compose architecture for indexing external drives and family photo sharing on Apple Silicon.
+- **[Universal Agent Skills](https://github.com/nilkanthdesai76/universal-agent-skills)** — Cross-agent documentation framework for Cursor, Claude Code, and Windsurf slashing LLM context tokens by up to 80%.
 
 ---
 
