@@ -123,6 +123,7 @@ Curated masterclasses and deep architectural references for Apple platform engin
 - **[23 Strategies for Efficient Array Usage in Swift](https://namitgupta.com/23-strategies-for-efficient-array-usage-in-swift)** — Masterclass by Namit Gupta exploring copy-on-write overhead, capacity reservations, and contiguous memory storage.
 - **[Empty States with UIContentUnavailableConfiguration](https://swiftsenpai.com/development/using-uicontentunavailableconfiguration/)** — Implementing native iOS 17+ empty states and search placeholders.
 - **[iOS Navigation Anatomy](https://frankrausch.com/ios-navigation)** — Visual structural dissection by Frank Rausch examining screen flows, navigation stacks, and modal presentations.
+- **[Self-Hosting Immich on macOS](https://github.com/nilkanthdesai76/immich-macos-selfhost-guide)** — Battle-tested manual and Docker Compose architecture for indexing external drives and family photo sharing on Apple Silicon.
 
 ---
 
