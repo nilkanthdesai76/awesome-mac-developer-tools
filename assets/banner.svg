@@ -1,0 +1,48 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <linearGradient id="glow" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" rx="20" fill="url(#bg)" />
+  <ellipse cx="600" cy="40" rx="450" ry="120" fill="url(#glow)" />
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="19.5" stroke="white" stroke-opacity="0.1" />
+
+  <!-- Apple Logo / Category Glyph -->
+  <g transform="translate(600, 95)" text-anchor="middle">
+    <text font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif" font-size="52" fill="#ffffff" font-weight="700">
+       Awesome macOS Developer Tools
+    </text>
+    <text y="50" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="20" fill="#94a3b8" font-weight="400">
+      A curated index of essential software, CLI power-ups, and developer utilities for macOS
+    </text>
+  </g>
+
+  <!-- Feature Badges -->
+  <g transform="translate(330, 200)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="160" height="42" rx="21" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.12"/>
+    <text x="80" y="26" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14" fill="#38bdf8" font-weight="600" text-anchor="middle">🛠️ IDEs &amp; Editors</text>
+
+    <!-- Badge 2 -->
+    <rect x="180" y="0" width="170" height="42" rx="21" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.12"/>
+    <text x="265" y="26" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14" fill="#818cf8" font-weight="600" text-anchor="middle">⚡ Shells &amp; Terminal</text>
+
+    <!-- Badge 3 -->
+    <rect x="370" y="0" width="170" height="42" rx="21" fill="white" fill-opacity="0.06" stroke="white" stroke-opacity="0.12"/>
+    <text x="455" y="26" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif" font-size="14" fill="#c084fc" font-weight="600" text-anchor="middle">🔍 Network &amp; Proxies</text>
+  </g>
+</svg>
