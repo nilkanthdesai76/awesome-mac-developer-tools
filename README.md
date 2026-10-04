@@ -74,7 +74,11 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | **[DeviceHardwareInfo](https://github.com/nilkanthdesai76/swift-device-hardware-info)** | Darwin Mach kernel hardware telemetry (RAM, CPU, thermals, SSD, battery). | MIT | SPM |
 | **[MobileAdCoordinator](https://github.com/nilkanthdesai76/swift-mobile-ad-coordinator)** | Protocol-oriented ad mediation orchestration, ATT & GDPR consent management. | MIT | SPM |
 | **[BiometricAppLock](https://github.com/nilkanthdesai76/swift-biometric-app-lock)** | Biometric authentication (Face ID, Touch ID, Optic ID) & salted Keychain PIN lock. | MIT | SPM |
-| **[VisionPhotoDedupe](https://github.com/nilkanthdesai76/swift-vision-photo-dedupe)** | On-device photo & video deduplication and blur scoring engine via Apple Vision. | MIT | SPM |
+| **[Aura macOS](https://github.com/nilkanthdesai76/aura-macos)** | Privacy-first native macOS meeting intelligence & live speech-to-text with CoreML whisper. | MIT | Open Source |
+| **[SwiftUI FlowLayout](https://github.com/nilkanthdesai76/swiftui-flow-layout)** | Modern SwiftUI Layout protocol + iOS 15 FlowCollection for wrapping tags and chips. | MIT | SPM |
+| **[Vision Document Scanner](https://github.com/nilkanthdesai76/swift-vision-document-scanner)** | On-device document edge detection, perspective warp rectification, and multi-page PDF export. | MIT | SPM |
+| **[HTML to PDF](https://github.com/nilkanthdesai76/swift-html-to-pdf)** | Modern Swift 6 async/await headless HTML to vector PDF generator via WebKit. | MIT | SPM |
+| **[Self-Hosted Cloud Storage](https://github.com/nilkanthdesai76/selfhosted-cloud-storage)** | Complete private cloud storage suite with NVMe/HDD storage tiering & chunked uploads. | MIT | Open Source |
 | **[MenuBar Template](https://github.com/nilkanthdesai76/menubar-swiftui-template)** | Non-activating NSPanel menu bar popover starter with SwiftUI hosting. | MIT | SPM |
 
 ---
