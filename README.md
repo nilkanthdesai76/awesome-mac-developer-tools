@@ -73,7 +73,9 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | **[SwiftUI DuoKit](https://github.com/nilkanthdesai76/swiftui-duo-kit)** | Layout engine and posture state machine for iPhone Duo & foldable dual screens. | MIT | SPM |
 | **[DeviceHardwareInfo](https://github.com/nilkanthdesai76/swift-device-hardware-info)** | Darwin Mach kernel hardware telemetry (RAM, CPU, thermals, SSD, battery). | MIT | SPM |
 | **[MobileAdCoordinator](https://github.com/nilkanthdesai76/swift-mobile-ad-coordinator)** | Protocol-oriented ad mediation orchestration, ATT & GDPR consent management. | MIT | SPM |
-| **[ContentUnavailableKit](https://github.com/nilkanthdesai76/swift-content-unavailable-kit)** | Backported declarative empty state and error recovery system for iOS 15+. | MIT | SPM |
+| **[BiometricAppLock](https://github.com/nilkanthdesai76/swift-biometric-app-lock)** | Biometric authentication (Face ID, Touch ID, Optic ID) & salted Keychain PIN lock. | MIT | SPM |
+| **[VisionPhotoDedupe](https://github.com/nilkanthdesai76/swift-vision-photo-dedupe)** | On-device photo & video deduplication and blur scoring engine via Apple Vision. | MIT | SPM |
+| **[MenuBar Template](https://github.com/nilkanthdesai76/menubar-swiftui-template)** | Non-activating NSPanel menu bar popover starter with SwiftUI hosting. | MIT | SPM |
 
 ---
 
