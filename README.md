@@ -78,7 +78,10 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | **[SwiftUI FlowLayout](https://github.com/nilkanthdesai76/swiftui-flow-layout)** | Modern SwiftUI Layout protocol + iOS 15 FlowCollection for wrapping tags and chips. | MIT | SPM |
 | **[Vision Document Scanner](https://github.com/nilkanthdesai76/swift-vision-document-scanner)** | On-device document edge detection, perspective warp rectification, and multi-page PDF export. | MIT | SPM |
 | **[HTML to PDF](https://github.com/nilkanthdesai76/swift-html-to-pdf)** | Modern Swift 6 async/await headless HTML to vector PDF generator via WebKit. | MIT | SPM |
-| **[Self-Hosted Cloud Storage](https://github.com/nilkanthdesai76/selfhosted-cloud-storage)** | Complete private cloud storage suite with NVMe/HDD storage tiering & chunked uploads. | MIT | Open Source |
+| **[SwiftUI Animation Recipes](https://github.com/nilkanthdesai76/swiftui-animation-recipes)** | Zero-dependency copy-paste SwiftUI animations: spring buttons, shimmers, card stack, confetti. | MIT | SPM |
+| **[iOS Production Templates](https://github.com/nilkanthdesai76/ios-production-templates)** | Production architecture blueprints: Paywall/IAP, Onboarding wizard, Navigation Coordinator, SyncEngine. | MIT | SPM |
+| **[Web Motion Templates](https://github.com/nilkanthdesai76/web-motion-templates)** | Copy-paste React + Framer Motion UI: magnetic buttons, spotlight glow cards, ⌘K command palette. | MIT | Open Source |
+| **[Fullstack Starter Templates](https://github.com/nilkanthdesai76/fullstack-starter-templates)** | Production Docker Compose stacks (FastAPI + Postgres + Redis) & Supabase client helpers. | MIT | Open Source |
 | **[MenuBar Template](https://github.com/nilkanthdesai76/menubar-swiftui-template)** | Non-activating NSPanel menu bar popover starter with SwiftUI hosting. | MIT | SPM |
 
 ---
