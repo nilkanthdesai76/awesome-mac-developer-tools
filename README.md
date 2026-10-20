@@ -56,6 +56,7 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | Tool | Description | License | Install via Brew |
 | :--- | :--- | :--- | :--- |
 | **[Fork](https://git-fork.com/)** | Fast, visual Git client with interactive rebase, merge conflict resolver, and git-flow. | Paid | `brew install --cask fork` |
+| **[Glim](https://github.com/NeoPanic/Glim)** | macOS file viewer with Git diff review, staging/unstaging, and staged-only commits. | MIT | [Download DMG](https://github.com/NeoPanic/Glim/releases/latest) |
 | **[Tower](https://www.git-tower.com/mac)** | Powerful Git GUI with drag-and-drop interactive rebase and undo features. | Paid | `brew install --cask tower` |
 | **[Lazygit](https://github.com/jesseduffield/lazygit)** | Simple terminal UI for git commands with intuitive keyboard navigation. | MIT | `brew install lazygit` |
 | **[Sublime Merge](https://www.sublimemerge.com/)** | Blazing-fast Git client from Sublime Text with 3-way merge editing. | Shareware | `brew install --cask sublime-merge` |
