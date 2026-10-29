@@ -115,6 +115,7 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | **[Rectangle](https://rectangleapp.com/)** | Open-source window manager with keyboard shortcuts and snap-to-edge gestures. | MIT | `brew install --cask rectangle` |
 | **[Ice](https://github.com/jordanbaird/Ice)** | Powerful menu bar manager to hide and organize status items with custom styling. | MIT | `brew install --cask jordanbaird-ice` |
 | **[AeroSpace](https://github.com/nikitabobko/AeroSpace)** | i3-like tiling window manager for macOS with virtual workspaces. | MIT | `brew install --cask aerospace` |
+| **[LayoutKeeper](https://github.com/tumingke0/LayoutKeeper)** | Restores window positions and Spaces after reconnecting an external display, with ambient brightness sync and USB-C arrangement presets. | GPL-3.0 | See [Releases](https://github.com/tumingke0/LayoutKeeper/releases) |
 
 ---
 
