@@ -93,6 +93,7 @@ A curated directory of exceptional macOS applications, CLI utilities, window pow
 | **[Proxyman](https://proxyman.io/)** | Native macOS HTTP/HTTPS debugging proxy with iOS Simulator auto-intercept. | Freemium | `brew install --cask proxyman` |
 | **[Bruno](https://www.usebruno.com/)** | Fast, Git-friendly open-source API client stored in plain text files. | MIT | `brew install --cask bruno` |
 | **[Charles Proxy](https://www.charlesproxy.com/)** | Reliable HTTP proxy, SSL proxying, and bandwidth throttling tool. | Shareware | `brew install --cask charles` |
+| **[Kilobat CLI](https://github.com/seifip/kilobat-cli)** | macOS network monitoring and diagnostics in the terminal, with JSON and local MCP. | GPL-3.0-only | `brew install seifip/kilobat/kilobat` |
 | **[Postman](https://www.postman.com/)** | Collaborative platform for API development, mocking, and automated testing. | Freemium | `brew install --cask postman` |
 
 ---
